@@ -1,6 +1,10 @@
-*.class
+#Generic Files
+*~
+*.tmp
 
-# Package Files #
+
+# Java Files
+*.class
 *.jar
 *.war
 *.ear
